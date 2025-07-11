@@ -29,14 +29,12 @@ cd ZPZ-Base1
 ruby zpz.rb -d example.com --all
 
 ### Arch/Manjaro/EndevourOS
-```bash
 sudo pacman -Syu ruby git
 git clone https://github.com/suo20/ZPZ-BASE1
 cd ZPZ-Base1
 ruby zpz.rb -d example.com --all
 
 ### Fedora/CentOS/RHEL
-```bash
 sudo pacman -Syu ruby git
 git clone https://github.com/suo20/ZPZ-BASE1
 cd ZPZ-Base1
