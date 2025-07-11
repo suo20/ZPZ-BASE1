@@ -21,7 +21,7 @@ Dapat dijalankan secara **native** di Android (Termux), Linux (Ubuntu, Debian, A
 
 ## CARA INSTALASI (SEMUA OS)
 
-### Debian/Ubuntu/Kali linux
+### Debian/Ubuntu/Kali linux/Arch Linux/Fedora
 ```bash
 sudo apt update && sudo apt install ruby git -y
 git clone https://github.com/suo20/ZPZ-BASE1
