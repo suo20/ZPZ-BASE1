@@ -20,21 +20,22 @@ Dapat dijalankan secara **native** di Android (Termux), Linux (Ubuntu, Debian, A
 ---
 
 ## CARA INSTALASI (SEMUA OS)
-Debian/Ubuntu/Kali linux
+### Debian/Ubuntu/Kali linux
 sudo apt update && sudo apt install ruby git -y
-git clone https://github.com/YOUR_USERNAME/ZPZ-Base1.git
+git clone https://github.com/suo20/ZPZ-BASE1
 cd ZPZ-Base1
 ruby zpz.rb -d example.com --all
 
-Arch/Manjaro/EndevourOS
+### Arch/Manjaro/EndevourOS
 sudo pacman -Syu ruby git
-git clone https://github.com/YOUR_USERNAME/ZPZ-Base1.git
+git clone https://github.com/suo20/ZPZ-BASE1
 cd ZPZ-Base1
 ruby zpz.rb -d example.com --all
 
-Fedora/CentOS/RHEL
+### Fedora/CentOS/RHEL
+
 sudo pacman -Syu ruby git
-git clone https://github.com/YOUR_USERNAME/ZPZ-Base1.git
+git clone https://github.com/suo20/ZPZ-BASE1
 cd ZPZ-Base1
 ruby zpz.rb -d example.com --all
 
@@ -43,6 +44,6 @@ ruby zpz.rb -d example.com --all
 ```bash
 pkg update && pkg upgrade -y
 pkg install ruby git -y
-git clone https://github.com/YOUR_USERNAME/ZPZ-Base1.git
+git clone https://github.com/suo20/ZPZ-BASE1
 cd ZPZ-Base1
 ruby zpz.rb -d example.com --all
